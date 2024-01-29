@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahsan Habib</h1>
 <h3 align="center">Turning ideas into lines of code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsan360" alt="ahsan360" /></a> </p>
-
 - 📫 How to reach me **ahsanhabib462@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahsan-habib-030095183/overlay/1635554988825/single-media-viewer/?profileId=ACoAACtCquQB0-derSTiKbFbExUFL4Ozq05o9K4](https://www.linkedin.com/in/ahsan-habib-030095183/overlay/1635554988825/single-media-viewer/?profileId=ACoAACtCquQB0-derSTiKbFbExUFL4Ozq05o9K4)
