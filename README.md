@@ -3,7 +3,8 @@
 
 - 📫 How to reach me **ahsanhabib462@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahsan-habib-030095183/overlay/1635554988825/single-media-viewer/?profileId=ACoAACtCquQB0-derSTiKbFbExUFL4Ozq05o9K4](https://www.linkedin.com/in/ahsan-habib-030095183/overlay/1635554988825/single-media-viewer/?profileId=ACoAACtCquQB0-derSTiKbFbExUFL4Ozq05o9K4)
+- 📄 Know about my experiences 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahsan-habib-030095183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahsan-habib-030095183/" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
