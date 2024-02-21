@@ -46,10 +46,12 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ ✨  &emsp;Creating bugs since 2019
+Embracing the learning curve, turning every bug into a lesson. <br/><br/>
+ 📚 &emsp; Currently learning React Diving into the world of component-based UI development, mastering the art of virtual DOM.<br/><br/>
+ 🎯 &emsp;  Goals: FullStack Developer
+Striving for proficiency in both front-end and back-end technologies, aiming to build robust and scalable applications.<br/><br/>
+ 🎲 &emsp;Fun fact:Exploring the unknown; where every semicolon is a secret passage to debugging adventures.
 
 </p>
 
