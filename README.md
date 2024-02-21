@@ -19,7 +19,6 @@
 
  
 
- 
 <p align="center">
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
@@ -41,7 +40,6 @@
   </a> 
 </p>
 <br />
-
 <!-- About Section -->
  # About me
  
