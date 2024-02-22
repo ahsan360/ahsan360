@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahsan Habib</h1>
 <h3 align="center">Turning ideas into lines of code</h3>
 <p align="center"> 
-  <samp>
-    [**Google Me**](https://www.google.com/search?q=Ahsan+habib+metropolitan+university){:target="_blank"}
+  <samp> 
 
     <a href="https://www.google.com/search?q=Ahsan+habib+metropolitan+university" target="_blank">「 Google Me 」</a>
     <br>
