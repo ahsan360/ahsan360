@@ -2,8 +2,7 @@
 <h3 align="center">Turning ideas into lines of code</h3>
 <p align="center"> 
   <samp> 
-
-    <a href="https://www.google.com/search?q=Ahsan+habib+metropolitan+university" target="_blank">「 Google Me 」</a>
+<a href="https://www.google.com/search?q=Ahsan+habib+metropolitan+university" target="_blank">「 Google Me 」</a> fix this
     <br>
     「 I am a full stack web application developer from <b>Bangladesh</b> 」
     <br>
