@@ -83,6 +83,8 @@ Striving for proficiency in both front-end and back-end technologies, aiming to 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&labelColor=black&logo=json&logoColor=000000)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&labelColor=black&logo=xampp&logoColor=FB7A24)
 
 
 <br/>
