@@ -86,6 +86,7 @@ Striving for proficiency in both front-end and back-end technologies, aiming to 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&labelColor=black&logo=json&logoColor=000000)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&labelColor=black&logo=xampp&logoColor=FB7A24)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
 
 <br/>
 <br/>
