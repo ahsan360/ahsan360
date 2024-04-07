@@ -87,7 +87,8 @@ Striving for proficiency in both front-end and back-end technologies, aiming to 
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&labelColor=black&logo=xampp&logoColor=FB7A24)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&labelColor=black&logo=http://simpleicons.org/icons/rest.svg&logoColor=005571)
-
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)
+![Adonis](https://img.shields.io/badge/Adonis-220052?style=for-the-badge&labelColor=black&logo=adonisjs&logoColor=220052)
 
 <br/>
 <br/>
