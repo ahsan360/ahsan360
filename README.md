@@ -48,7 +48,7 @@
   
  ✨  &emsp;Creating bugs since 2019
 Embracing the learning curve, turning every bug into a lesson. <br/><br/>
- 📚 &emsp; Currently learning React Diving into the world of component-based UI development, mastering the art of virtual DOM.<br/><br/>
+ 📚 &emsp; Currently mastering fullstack webapp development with adonisjs & nextjs & mysql.<br/><br/>
  🎯 &emsp;  Goals: FullStack Developer
 Striving for proficiency in both front-end and back-end technologies, aiming to build robust and scalable applications.<br/><br/>
  🎲 &emsp;Fun fact:Exploring the unknown; where every semicolon is a secret passage to debugging adventures.
