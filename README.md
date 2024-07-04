@@ -97,8 +97,7 @@ Striving for proficiency in both front-end and back-end technologies, aiming to 
 <br/>
 ## 📊 GitHub Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahsan360&theme=dayfox&date_format=M%20j%5B%2C%20Y%5D)](https://www.linkedin.com/in/your-linkedin-profile/)
- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahsan360&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://www.linkedin.com/in/your-linkedin-profile/)
 
 ## Top Open Source -
 
