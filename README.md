@@ -98,11 +98,12 @@ Striving for proficiency in both front-end and back-end technologies, aiming to 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahsan360&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://www.linkedin.com/in/ahsan-habib-u)
 
+
 https://www.linkedin.com/in/ahsan-habib-u
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan360&show_icons=true&locale=en&layout=compact&theme=dark" alt="ahsan360" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=ahsan360&show_icons=true&locale=en&theme=dark" alt="ahsan360" /></p>
+
 ## Top Open Source -
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagor66&show_icons=true&locale=en&layout=compact" alt="sagor66" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagor66&show_icons=true&locale=en" alt="sagor66" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagor66&" alt="sagor66" /></p>
+ 
 
