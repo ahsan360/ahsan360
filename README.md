@@ -100,4 +100,9 @@ Striving for proficiency in both front-end and back-end technologies, aiming to 
 
 https://www.linkedin.com/in/ahsan-habib-u
 ## Top Open Source -
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagor66&show_icons=true&locale=en&layout=compact" alt="sagor66" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagor66&show_icons=true&locale=en" alt="sagor66" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagor66&" alt="sagor66" /></p>
 
