@@ -100,8 +100,10 @@ Striving for proficiency in both front-end and back-end technologies, aiming to 
 
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan360&show_icons=true&locale=en&layout=compact&theme=dark" alt="ahsan360" /></p>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=ahsan360&show_icons=true&locale=en&theme=dark" alt="ahsan360" /></p>
+
+<p>&nbsp;</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=ahsan360&show_icons=true&locale=en&theme=dark" alt="ahsan360" /></p>
 
 ## Top Open Source -
  
