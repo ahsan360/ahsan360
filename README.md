@@ -56,7 +56,7 @@ Striving for proficiency in both front-end and back-end technologies, aiming to 
 <br/>
 <br/>
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsan360&theme=github)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsan360&theme=dark)
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
