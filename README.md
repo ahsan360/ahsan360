@@ -90,6 +90,7 @@ Striving for proficiency in both front-end and back-end technologies, aiming to 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FFFFFF)
 
 
+
 <br/>
 <br/>## 📊 GitHub Contributions
 
