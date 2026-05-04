@@ -38,16 +38,28 @@
 </p>
 <br />
 <!-- About Section -->
- # About me
- 
+## About Me
+
 <p>
   <img align="right" width="300" src="/assets/programmer.gif" alt="Coding gif" />
 
-  💻 &emsp; Fullstack Developer with 2+ years of hands-on experience building web applications.<br/><br/>
-  🛠️ &emsp; Tech Stack: AdonisJS · Next.js · MySQL · REST APIs · TypeScript<br/><br/>
-  🚀 &emsp; Passionate about writing clean, scalable code and delivering end-to-end solutions — from database design to pixel-perfect UIs.<br/><br/>
-  🌱 &emsp; Always learning — currently diving deeper into system design, performance optimization, cloud architecture, and distributed systems.<br/><br/>
-  🤝 &emsp; Open to collaboration on fullstack projects and open-source contributions.
+  <samp>
+
+  💻 &ensp; Fullstack Developer with 2+ years of hands-on experience
+  building web applications.
+
+  🛠️ &ensp; **Tech Stack:** AdonisJS · Next.js · MySQL · REST APIs · TypeScript
+
+  🚀 &ensp; Passionate about clean, scalable code and delivering
+  end-to-end solutions — from database design to pixel-perfect UIs.
+
+  🌱 &ensp; **Exploring:** System Design · Performance Optimization ·
+  Cloud Architecture · Distributed Systems
+
+  🤝 &ensp; Open to collaboration on fullstack projects and open-source
+  contributions.
+
+  </samp>
 </p>
 
 <br/>
