@@ -41,15 +41,13 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✨  &emsp;Creating bugs since 2019
-Embracing the learning curve, turning every bug into a lesson. <br/><br/>
- 📚 &emsp; Currently mastering fullstack webapp development with adonisjs & nextjs & mysql.<br/><br/>
- 🎯 &emsp;  Goals: FullStack Developer
-Striving for proficiency in both front-end and back-end technologies, aiming to build robust and scalable applications.<br/><br/>
- 🎲 &emsp;Fun fact:Exploring the unknown; where every semicolon is a secret passage to debugging adventures.
+  <img align="right" width="300" src="/assets/programmer.gif" alt="Coding gif" />
 
+  💻 &emsp; Fullstack Developer with 2+ years of hands-on experience building web applications.<br/><br/>
+  🛠️ &emsp; Tech Stack: AdonisJS · Next.js · MySQL · REST APIs · TypeScript<br/><br/>
+  🚀 &emsp; Passionate about writing clean, scalable code and delivering end-to-end solutions — from database design to pixel-perfect UIs.<br/><br/>
+  🌱 &emsp; Always learning — currently diving deeper into system design, performance optimization, cloud architecture, and distributed systems.<br/><br/>
+  🤝 &emsp; Open to collaboration on fullstack projects and open-source contributions.
 </p>
 
 <br/>
