@@ -1,76 +1,73 @@
-<h1 align="center">Hi 👋, I'm Ahsan Habib</h1>
-<h3 align="center">Turning ideas into lines of code</h3>
+<h1 align="center">Hi 👋, I'm Ahsan Habib — Full Stack Web Developer from Bangladesh</h1>
+<h3 align="center">Ahsan Habib | Software Engineer — Turning ideas into lines of code</h3>
 <p align="center"> 
   <samp> 
-<a href="https://www.google.com/search?q=Ahsan+habib+software+engineer" target="_blank">「 Google Me 」</a> 
+<a href="https://www.google.com/search?q=Ahsan+Habib+software+engineer+Bangladesh" target="_blank">「 Google Me 」</a> 
     <br>
     「 I am a full stack web application developer from <b>Bangladesh</b> 」
     <br>
     <br>
   </samp>
 </p>
-
-<!-- 
-<p align="center">
-  <a href="https://github.com/ahsan360"  target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
+<!--
+  SEO Keywords (invisible to viewers, indexable by crawlers):
+  Ahsan Habib, Ahsan Habib software engineer, Ahsan Habib developer,
+  Ahsan Habib Bangladesh, Ahsan Habib full stack developer,
+  Ahsan Habib web developer, Ahsan Habib AdonisJS, Ahsan Habib Next.js,
+  Ahsan Habib React developer, Ahsan Habib TypeScript developer,
+  Ahsan Habib GitHub, ahsan360, Ahsan Habib portfolio,
+  Ahsan Habib Dhaka, Ahsan Habib MySQL, Ahsan Habib REST API,
+  Ahsan Habib freelance developer, Ahsan Habib fullstack engineer
+-->
+ 
 <p align="center">
 <a href="https://www.ahsanhabib.pro" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
-    alt="Ahsan Habib Website"
+    alt="Ahsan Habib Portfolio Website"
   />
 </a>
  <a href="https://www.linkedin.com/in/ahsan-habib-030095183/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsia" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ahsan Habib LinkedIn Profile"/>
  </a>
  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ahsan Habib Twitter" />
+ </a>
+ <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ahsan Habib Instagram" />
  </a> 
  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Ahsan Habib Facebook"  />
   </a> 
 </p>
 <br />
 <!-- About Section -->
-## About Me
-
+## About Me — Ahsan Habib
+ 
 <p>
-  <img align="right" width="300" src="/assets/programmer.gif" alt="Coding gif" />
-
+  <img align="right" width="300" src="/assets/programmer.gif" alt="Ahsan Habib coding animation" />
   <samp>
-
   💻 &ensp; Fullstack Developer with 2+ years of hands-on experience
   building web applications.
-
+ 
   🛠️ &ensp; **Tech Stack:** AdonisJS · Next.js · MySQL · REST APIs · TypeScript
-
+ 
   🚀 &ensp; Passionate about clean, scalable code and delivering
   end-to-end solutions — from database design to pixel-perfect UIs.
-
+ 
   🌱 &ensp; **Exploring:** System Design · Performance Optimization ·
   Cloud Architecture · Distributed Systems
-
+ 
   🤝 &ensp; Open to collaboration on fullstack projects and open-source
   contributions.
-
+ 
   </samp>
 </p>
-
 <br/>
 <br/>
 <br/>
-
-## Use To Code
-
+## Tech Stack & Tools — Ahsan Habib
+ 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -101,22 +98,27 @@
 ![Adonis](https://img.shields.io/badge/Adonis-220052?style=for-the-badge&labelColor=black&logo=adonisjs&logoColor=220052)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FFFFFF)
-
-
-
-<br/>
-<br/>## 📊 GitHub Contributions
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsan360&theme=dark) 
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahsan360&theme=dark)
-<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahsan360&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://www.linkedin.com/in/ahsan-habib-u)
-
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsan360&show_icons=true&count_private=true&theme=great-gatsby)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan360&theme=great-gatsby&layout=compact)](https://github.com/ahsan360)
-
-
-## Top Open Source -
  
-
+ 
+<br/>
+<br/>
+## 📊 GitHub Contributions — ahsan360
+ 
+![Ahsan Habib GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsan360&theme=dark) 
+ 
+![Ahsan Habib Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahsan360&theme=dark)
+<br/>
+[![Ahsan Habib GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahsan360&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://www.linkedin.com/in/ahsan-habib-u)
+ 
+![Ahsan Habib GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsan360&show_icons=true&count_private=true&theme=great-gatsby)  
+[![Ahsan Habib Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan360&theme=great-gatsby&layout=compact)](https://github.com/ahsan360)
+ 
+ 
+## Top Open Source — Ahsan Habib Projects
+ 
+---
+ 
+> **Ahsan Habib** — Full Stack Developer · Bangladesh · AdonisJS · Next.js · React · TypeScript · MySQL · REST APIs · Open Source Contributor  
+> 📧 Reach me at [ahsanhabib.pro](https://www.ahsanhabib.pro) · [LinkedIn](https://www.linkedin.com/in/ahsan-habib-030095183/) · [GitHub @ahsan360](https://github.com/ahsan360)
+ 
