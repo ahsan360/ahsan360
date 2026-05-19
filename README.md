@@ -4,7 +4,7 @@
   <samp> 
 <a href="https://www.google.com/search?q=Ahsan+Habib+software+engineer+Bangladesh" target="_blank">「 Google Me 」</a> 
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack Software Engineer from <b>Bangladesh</b> 」
     <br>
     <br>
   </samp>
