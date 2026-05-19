@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahsan Habib — Full Stack Web Developer from Bangladesh</h1>
+<h1 align="center">Hi 👋, I'm Ahsan Habib — Full Stack Software Engineer from Bangladesh</h1>
 <h3 align="center">Ahsan Habib | Software Engineer — Turning ideas into lines of code</h3>
 <p align="center"> 
   <samp> 
