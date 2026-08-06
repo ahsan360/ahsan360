@@ -119,7 +119,39 @@
 ![Ahsan Habib GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsan360&show_icons=true&count_private=true&theme=great-gatsby)  
 [![Ahsan Habib Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan360&theme=great-gatsby&layout=compact)](https://github.com/ahsan360)
  
- 
+ # Ahsan Habib | Profile Overview
+
+<!-- Native Profile Summary Badges (Fast, statically generated via Shields.io) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20SaaS-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20React%20%7C%20Next.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Stack" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ahsan%20Habib-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<!-- 
+  NOTE: These SVG files are pre-rendered into your repo using GitHub Actions (see setup instructions below).
+  This bypasses third-party rate limits and Vercel/Heroku 5-second proxy timeouts completely.
+-->
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Ahsan Habib GitHub Metrics" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.languages.details.svg" alt="Top Languages Overview" width="90%" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahsan-habib-u">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
 ## Top Open Source — Ahsan Habib Projects
  
 ---
